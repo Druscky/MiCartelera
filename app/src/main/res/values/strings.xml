@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFirstCartelera</string>
+    <string name="tvTitulo">Doctor Who</string>
+    <string name="rbSerie">Serie</string>
+    <string name="rbPelicula">Película</string>
+    <string name="CFiccion">Ciencia Ficción</string>
+    <string name="Thriller">Thriller</string>
+    <string name="Humor">Humor</string>
+    <string name="Terror">Terror</string>
+    <string name="Amor">Amor</string>
+    <string name="Infantil">Infantil</string>
+    <string name="Volver">VOLVER</string>
+    <string name="Aceptar">ACEPTAR</string>
+</resources>
